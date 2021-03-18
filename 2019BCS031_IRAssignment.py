@@ -1,4 +1,4 @@
-##Code which calculates forward kinematics
+## Code which calculates forward kinematics
 ## 6.123234e-17 or a similar number of that kind is very small number so is close to 0(you may get this in the output matrix)
 import math
 import numpy as np
